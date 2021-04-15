@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44f010fb-895b-4ec4-a555-b2ac0bc56d80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/android.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/folder备份@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/follow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/follow@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/follow备份 14@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/github.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/hideSide@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/invite@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/invite备份@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/mac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/one.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/sec.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/sec_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/sec_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/sec_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/sec_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/setting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/source.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/undo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/undo@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/windows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/形状结合@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/矩形备份 19@2x(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/矩形备份 19@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/矩形备份 21@2x(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/矩形备份 21@2x(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/矩形备份 21@2x(3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/矩形备份 21@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/矩形备份 24@2x(4).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/矩形备份 24@2x(5).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/矩形备份 25@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/矩形备份 45@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/矩形备份 55@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/landingpage_slices/编组@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landingPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/reset.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rDIgLOkRAaAA2ciAxYGr5pop5V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44f010fb-895b-4ec4-a555-b2ac0bc56d80" name="Default Changelist" comment="" />
+      <created>1618504343901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618504343901</updated>
+      <workItem from="1618504344946" duration="757000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="205" width="597" height="490" key="find.popup" timestamp="1618504955505">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="421" y="205" width="597" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1618504955505" />
+  </component>
+</project>
